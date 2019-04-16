@@ -1,0 +1,35 @@
+@charset "utf-8";
+body{
+	background-color: gray;
+	background-repeat: no-repeat;
+	 background-position: center;
+	 background-size:1000px 300px;
+
+}
+.main{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#header, #footer{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: rgb(0, 0, 102);
+}
+
+#article>img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 50%;
+	height: 50%; 
+}
+
+#header{
+	
+}
+#article>p{
+	margin-left: 20%;
+	margin-right: 20%;
+}
